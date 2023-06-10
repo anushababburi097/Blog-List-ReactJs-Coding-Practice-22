@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.profile {
+  height: 66px;
+  width: 67px;
+  margin-left: 46px;
+}
+.person-name {
+  font-weight: 'bold';
+  font-size: 15px;
+  color: #12022f;
+  font-family: 'Roboto';
+}
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+}
